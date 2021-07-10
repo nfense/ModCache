@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace NCache {
+namespace ModCache {
     public class CacheManager {
         
         private Dictionary<string, CachePool> pools;

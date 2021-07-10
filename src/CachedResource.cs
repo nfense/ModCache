@@ -1,4 +1,4 @@
-namespace NCache {
+namespace ModCache {
     public class CachedResource {
         private string contentType;
         private byte[] buffer;
