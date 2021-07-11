@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ModCache
+namespace Nfense.ModCache
 {
     public class CacheManager
     {

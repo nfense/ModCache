@@ -1,4 +1,4 @@
-namespace ModCache
+namespace Nfense.ModCache
 {
     public class CachedResource
     {
